@@ -3,10 +3,8 @@ learning GIT basics
 Modfying11
 
 modifying2
-<<<<<<< HEAD
 
 mod3
 
-mod4
-=======
->>>>>>> parent of e18464a... 3rd modification to a.txt
+
+
